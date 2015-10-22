@@ -1,19 +1,30 @@
-# Artificial Intelligence
+# 1. Computer Vision
 
-My Robot:
-Apollo Duke de Madrid I
+Histograms - 2: Histogram Equalization
+http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_histograms/py_histogram_equalization/py_histogram_equalization.html
 
-- Phase 1: Vision 
-- Phase 2: Text Analytics and NPL
-- Phase 3: Sensors 
-- Phase 4: Moviments
+Histogram Calculation
+http://docs.opencv.org/doc/tutorials/imgproc/histograms/histogram_calculation/histogram_calculation.html#histogram-calculation
 
+Histograms - 1 : Find, Plot, Analyze !!!
+http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_histograms/py_histogram_begins/py_histogram_begins.html
 
+Transformada Hough 
+https://procesamientodigitalimagenes.wordpress.com/2012/11/02/transformada-hough/
 
+Hough Line Transform
+http://docs.opencv.org/doc/tutorials/imgproc/imgtrans/hough_lines/hough_lines.html
 
-UNICAMP<BR>
-Prof. Fernando Gomide<BR>
-http://www.dca.fee.unicamp.br/~gomide/<BR>
-http://www.dca.fee.unicamp.br/~gomide/courses/EA072/<BR>
-http://www.dca.fee.unicamp.br/~gomide/courses/<BR>
+Hough transform
+http://rosettacode.org/wiki/Hough_transform
+
+Hough Line Transform
+http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_houghlines/py_houghlines.html
+
+Hough Circle Transform
+https://github.com/abidrahmank/OpenCV2-Python-Tutorials/blob/master/source/py_tutorials/py_imgproc/py_houghcircles/py_houghcircles.rst
+
+Hough Circle Transform
+http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_houghcircles/py_houghcircles.html
+
 
