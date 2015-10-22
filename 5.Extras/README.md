@@ -1,15 +1,4 @@
-# Artificial Intelligence
-
-My Robot:
-Apollo Duke de Madrid I
-
-- Phase 1: Vision 
-- Phase 2: Text Analytics and NPL
-- Phase 3: Sensors 
-- Phase 4: Moviments
-
-
-
+# Links and References
 
 UNICAMP<BR>
 Prof. Fernando Gomide<BR>
