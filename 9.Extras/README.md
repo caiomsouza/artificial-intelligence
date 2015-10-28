@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=dreTvumjNyw
 ### LEGO Mindstorms EV3 Demo
 https://www.youtube.com/watch?v=qzOza1fO9_8
 
+### Company in USA using Computer Vision
+https://www.sighthound.com<BR>
+http://www.sensetime.com/en<BR>
 
 # Links and References
 
