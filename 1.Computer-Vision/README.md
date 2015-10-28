@@ -26,3 +26,8 @@ https://github.com/abidrahmank/OpenCV2-Python-Tutorials/blob/master/source/py_tu
 
 Hough Circle Transform<BR>
 http://opencv-python-tutroals.readthedocs.org/en/latest/py_tutorials/py_imgproc/py_houghcircles/py_houghcircles.html<BR>
+
+###Rolling Guidance Filter
+http://www.cse.cuhk.edu.hk/leojia/projects/rollguidance/
+http://www.sensetime.com/en/product
+
