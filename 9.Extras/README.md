@@ -9,8 +9,8 @@ https://www.youtube.com/watch?v=dreTvumjNyw
 https://www.youtube.com/watch?v=qzOza1fO9_8
 
 ### Company in USA using Computer Vision
-https://www.sighthound.com
-http://www.sensetime.com/en
+https://www.sighthound.com<BR>
+http://www.sensetime.com/en<BR>
 
 # Links and References
 
