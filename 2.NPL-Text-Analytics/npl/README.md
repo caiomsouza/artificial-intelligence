@@ -15,6 +15,9 @@ http://www.nltk.org
 NB. If you publish work that uses NLTK, please cite the NLTK book as follows:<BR>
 Bird, Steven, Edward Loper and Ewan Klein (2009), Natural Language Processing with Python. O’Reilly Media Inc.<BR>
 
+###NLTK Tutorial 
+https://www.youtube.com/watch?v=FLZvOKSCkxY
+
 ### Adding a Corpus
 https://github.com/nltk/nltk/wiki/Adding-a-Corpus<BR>
 https://github.com/nltk/nltk_data/tree/gh-pages<BR>
