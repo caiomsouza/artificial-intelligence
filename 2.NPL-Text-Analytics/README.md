@@ -25,7 +25,7 @@ https://en.wikipedia.org/wiki/Sentiment_analysis<BR>
 
 ###Links:
 
-6. Learning to Classify Text<BR>
+Learning to Classify Text<BR>
 https://en.wikipedia.org/wiki/Sentiment_analysis<BR>
 
 Working With Text Data<BR>
