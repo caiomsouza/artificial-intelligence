@@ -73,3 +73,33 @@ https://www.qubole.com/blog/big-data/sentiment-analysis/<BR>
 
 Companies:<BR>
 www.brandwatch.com<BR>
+
+
+#Aplicación
+
+Crear un sistema que monitorize en tiempo real una conversación de una persona.<BR> 
+La idea es el sistema gravar la conversación, converter la voz en texto y en tiempo real
+predicir si es una conversación positiva o negativa y ir generando al longo del tiempo registros
+del humor de la conversación.<BR><BR>
+
+Algo como decir cuando la conversasión estava con humor positivo, cuando estava negativo.
+Intentar de medir la intensidad de los positivos y negativos.<BR>
+
+Tener una camera mirando la cara de la persona al telefone y intentar de identificar el humor de la persona
+Feliz, etc.<BR>
+
+Eso puede ser un sistema para monitorar call centers.<BR>
+
+También quiero tener un sistema de alerta que cuando alguién dices una palavra o frases hay que enviar un alerta por correo para decir que algo ha pasado y necesita ser mirado.
+
+Por ejemplo:
+Quiero dar baja de mi plano.
+
+Cuando alguién menciona eso, hay que enviar generar un alerta.
+
+
+
+
+
+
+
