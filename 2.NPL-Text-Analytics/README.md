@@ -26,16 +26,16 @@ https://en.wikipedia.org/wiki/Sentiment_analysis<BR>
 ###Links:
 
 6. Learning to Classify Text<BR>
-https://en.wikipedia.org/wiki/Sentiment_analysis<BR><BR>
+https://en.wikipedia.org/wiki/Sentiment_analysis<BR>
 
 Working With Text Data<BR>
-http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html<BR><BR>
+http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html<BR>
 
 Sentiment Analysis with Python NLTK Text Classification<BR>
-http://text-processing.com/demo/sentiment/<BR><BR>
+http://text-processing.com/demo/sentiment/<BR>
 
 RTextTools: A Supervised Learning Package for Text Classification<BR>
-https://journal.r-project.org/archive/2013-1/collingwood-jurka-boydstun-etal.pdf<BR><BR>
+https://journal.r-project.org/archive/2013-1/collingwood-jurka-boydstun-etal.pdf<BR>
 
 SVM Tutorial: How to classify text in R<BR>
 http://www.svm-tutorial.com/2014/11/svm-classify-text-r/<BR>
@@ -44,43 +44,32 @@ Classifying Breast Cancer as Benign or Malignant Using RTextTools<BR>
 http://www.rtexttools.com/blog/classifying-cancer-as-benign-or-malignant-using-rtexttools<BR>
 
 How to Build a Text Mining, Machine Learning Document Classification System in R!<BR>
-https://www.youtube.com/watch?v=j1V2McKbkLo<BR><BR>
+https://www.youtube.com/watch?v=j1V2McKbkLo<BR>
 
 Text mining in R – Automatic categorization of Wikipedia articles<BR>
-http://www.rexamine.com/2014/06/text-mining-in-r-automatic-categorization-of-wikipedia-articles/<BR><BR>
+http://www.rexamine.com/2014/06/text-mining-in-r-automatic-categorization-of-wikipedia-articles/<BR>
 
 The Future of Sentiment Analysis<BR>
-https://www.socialmediaexplorer.com/social-media-monitoring/sentiment-analysis/<BR><BR>
+https://www.socialmediaexplorer.com/social-media-monitoring/sentiment-analysis/<BR>
 
 5 Big Data Use Cases To Watch<BR>
-http://www.informationweek.com/big-data/big-data-analytics/5-big-data-use-cases-to-watch/d/d-id/1251031<BR><BR>
+http://www.informationweek.com/big-data/big-data-analytics/5-big-data-use-cases-to-watch/d/d-id/1251031<BR>
 
 How Companies Can Use Sentiment Analysis to Improve Their Business<BR>
-http://mashable.com/2010/04/19/sentiment-analysis/#E_P0KUG_yiq0<BR><BR>
+http://mashable.com/2010/04/19/sentiment-analysis/#E_P0KUG_yiq0<BR>
 
 Sentiment Analysis Use Cases<BR>
 http://www.isin.ie/assets/38/903B8F83-111B-4DCA-A84606B4F6E557B6_document/0915_Sentiment_Analysis_Dr._Adam_Bermingham.pdf<BR>
 
 Strange Uses for Sentiment Analysis<BR>
-http://www.smartdatacollective.com/raminuseir/191466/strange-uses-sentiment-analysis<BR><BR>
+http://www.smartdatacollective.com/raminuseir/191466/strange-uses-sentiment-analysis<BR>
 
 Understanding Sentiment Analysis: What It Is & Why It’s Used<BR>
-https://www.brandwatch.com/2015/01/understanding-sentiment-analysis/<BR><BR>
+https://www.brandwatch.com/2015/01/understanding-sentiment-analysis/<BR>
 
 Finding Business Value in Sentiment Analysis Data<BR>
-https://www.qubole.com/blog/big-data/sentiment-analysis/<BR><BR>
+https://www.qubole.com/blog/big-data/sentiment-analysis/<BR>
 
 
 Companies:<BR>
 www.brandwatch.com<BR>
-
-
-
-
-
-
-
-
-
-
-
