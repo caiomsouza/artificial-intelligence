@@ -1,31 +1,7 @@
-# -*- coding: utf-8 -*-
-"""
-
-Face Recognition With Python, in Under 25 Lines of Code
-https://realpython.com/blog/python/face-recognition-with-python/
-
-Face Detection in Python Using a Webcam
-https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/
-
-
-Created on Wed Oct 28 16:19:50 2015
-
-# Press Q to close the Program
-
-
-@author: caiomsouza
-"""
-
 import cv2
 import sys
 
-
-import os
-
-cascPath = os.getcwd()+'/haarcascades/haarcascade_frontalface_alt2.xml'
-
-
-#cascPath = sys.argv[1]
+cascPath = sys.argv[1]
 faceCascade = cv2.CascadeClassifier(cascPath)
 
 video_capture = cv2.VideoCapture(0)

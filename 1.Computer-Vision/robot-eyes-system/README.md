@@ -27,4 +27,18 @@ https://www.behance.net/gallery/Vehicle-Detection-Tracking-and-Counting/4057777
 https://github.com/andrewssobral/simple_vehicle_counting
 
 
+http://picamera.readthedocs.org/en/release-1.0/install2.html
+
+http://rpihome.blogspot.com.es/2015/03/face-detection-with-raspberry-pi.html
+
+http://pythonprogramming.net/raspberry-pi-camera-opencv-face-detection-tutorial/
+
+
+Face Recognition With Python, in Under 25 Lines of Code
+https://realpython.com/blog/python/face-recognition-with-python/
+
+Face Detection in Python Using a Webcam
+https://realpython.com/blog/python/face-detection-in-python-using-a-webcam/
+
+
 
