@@ -1,0 +1,47 @@
+ExifToolVersion                 : 10.05
+FileName                        : abba.png
+Directory                       : .
+FileSize                        : 270 kB
+FileModifyDate                  : 2015:10:28 16:37:51+01:00
+FileAccessDate                  : 2015:11:16 12:53:07+01:00
+FileInodeChangeDate             : 2015:11:16 12:09:01+01:00
+FilePermissions                 : rw-r--r--
+FileType                        : PNG
+FileTypeExtension               : png
+MIMEType                        : image/png
+ImageWidth                      : 500
+ImageHeight                     : 426
+BitDepth                        : 8
+ColorType                       : RGB
+Compression                     : Deflate/Inflate
+Filter                          : Adaptive
+Interlace                       : Noninterlaced
+ProfileName                     : Photoshop ICC profile
+ProfileCMMType                  : ADBE
+ProfileVersion                  : 2.1.0
+ProfileClass                    : Display Device Profile
+ColorSpaceData                  : GRAY
+ProfileConnectionSpace          : XYZ
+ProfileDateTime                 : 1999:06:03 00:00:00
+ProfileFileSignature            : acsp
+PrimaryPlatform                 : Apple Computer Inc.
+CMMFlags                        : Not Embedded, Independent
+DeviceManufacturer              : none
+DeviceModel                     : 
+DeviceAttributes                : Reflective, Glossy, Positive, Color
+RenderingIntent                 : Media-Relative Colorimetric
+ConnectionSpaceIlluminant       : 0.9642 1 0.82491
+ProfileCreator                  : ADBE
+ProfileID                       : 0
+ProfileCopyright                : Copyright 1999 Adobe Systems Incorporated
+ProfileDescription              : Gray Gamma 2.2
+MediaWhitePoint                 : 0.9505 1 1.0891
+MediaBlackPoint                 : 0 0 0
+GrayTRC                         : (Binary data 14 bytes, use -b option to extract)
+BackgroundColor                 : 255 255 255
+PixelsPerUnitX                  : 35432
+PixelsPerUnitY                  : 35432
+PixelUnits                      : meters
+ModifyDate                      : 2013:12:26 19:38:48
+ImageSize                       : 500x426
+Megapixels                      : 0.213
