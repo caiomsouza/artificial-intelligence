@@ -8,6 +8,13 @@ RES can detect:
 
 Links:
 
+# Labeled Faces in the Wild Home
+Welcome to Labeled Faces in the Wild, a database of face photographs designed for studying the problem of unconstrained face recognition. The data set contains more than 13,000 images of faces collected from the web. Each face has been labeled with the name of the person pictured. 1680 of the people pictured have two or more distinct photos in the data set. The only constraint on these faces is that they were detected by the Viola-Jones face detector. <BR>
+
+http://vis-www.cs.umass.edu/lfw/<BR>
+http://people.cs.umass.edu/~elm/papers/LFW_survey.pdf<BR>
+
+
 Face Recognition With Python, in Under 25 Lines of Code
 https://realpython.com/blog/python/face-recognition-with-python/
 https://github.com/shantnu/FaceDetect
