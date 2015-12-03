@@ -2,7 +2,6 @@
 
 https://epic.org/privacy/facerecognition/
 
-
 # OpenCV for Secret Agents
 http://www.amazon.com/OpenCV-Secret-Agents-Joseph-Howse-ebook/dp/B00T7D33DM/ref=sr_1_1?s=books&ie=UTF8&qid=1447961095&sr=1-1&keywords=opencv+for+secret+agents<BR>
 
@@ -29,6 +28,12 @@ https://nakedsecurity.sophos.com/2015/02/06/facebooks-deepface-facial-recognitio
 DeepFace is a deep learning facial recognition system created by a research group at Facebook. It identifies human faces in digital images. It employs a nine-layer neural net with over 120 million connection weights, and was trained on four million images uploaded by Facebook users.[1][2] The system is said to be 97% accurate, compared to 85% for the FBI's Next Generation Identification system.[3] One of the creators of the software, Yaniv Taigman, came to Facebook via their 2007 acquisition of Face.com.[4]<BR>
 
 https://en.wikipedia.org/wiki/DeepFace<BR>
+
+#DeepFace Team
+Prof. Lior Wolf<BR>
+http://www.cs.tau.ac.il/~wolf/<BR>
+
+
 
 #Face.com
 Face.com is a Tel Aviv-based technology company that developed a platform for efficient and accurate facial recognition in photos uploaded via web and mobile applications. Face.com apps and API services scan billions of photos monthly and tag faces in those photos, tying them directly to available social networking information. As of February, 2011, the company had “discovered” 18 billion faces across its API and Facebook applications.[1]
