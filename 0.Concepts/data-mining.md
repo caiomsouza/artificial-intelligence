@@ -1,3 +1,65 @@
+# Machine learning 
+
+ML (Machine Learning) is a subfield of computer science that study the ability that computers have to learn without being explicity programmed.<BR>
+
+In wikipedia we find the follow definition:<BR>
+
+Machine learning is a subfield of computer science that evolved from the study of pattern recognition and computational learning theory in artificial intelligence. In 1959, Arthur Samuel defined machine learning as a "Field of study that gives computers the ability to learn without being explicitly programmed".<BR>
+
+See the link below to know more about:<BR>
+https://en.wikipedia.org/wiki/Machine_learning<BR>
+
+We typically classify machine learning into three broad categories:
+
+Supervised learning: The computer is presented with example inputs and their desired outputs, given by a "teacher", and the goal is to learn a general rule that maps inputs to outputs.
+
+Unsupervised learning: No labels are given to the learning algorithm, leaving it on its own to find structure in its input. Unsupervised learning can be a goal in itself (discovering hidden patterns in data) or a means towards an end (feature learning).
+
+Reinforcement learning: A computer program interacts with a dynamic environment in which it must perform a certain goal (such as driving a vehicle), without a teacher explicitly telling it whether it has come close to its goal. Another example is learning to play a game by playing against an opponent.[4]:3
+
+
+* In classification, inputs are divided into two or more classes, and the learner must produce a model that assigns unseen inputs to one (or multi-label classification) or more of these classes. This is typically tackled in a supervised way. Spam filtering is an example of classification, where the inputs are email (or other) messages and the classes are "spam" and "not spam".
+* In regression, also a supervised problem, the outputs are continuous rather than discrete.
+* In clustering, a set of inputs is to be divided into groups. Unlike in classification, the groups are not known beforehand, making this typically an unsupervised task.
+* Density estimation finds the distribution of inputs in some space.
+* Dimensionality reduction simplifies inputs by mapping them into a lower-dimensional space. Topic modeling is a related problem, where a program is given a list of human language documents and is tasked to find out which documents cover similar topics.
+
+
+#Journals
+Journal of Machine Learning Research<BR>
+https://en.wikipedia.org/wiki/Journal_of_Machine_Learning_Research<BR>
+
+Machine Learning Journal<BR>
+https://en.wikipedia.org/wiki/Machine_Learning_(journal)<BR>
+
+ROC (Receiving Operating Characteristic)<BR>
+http://blog.yhat.com/posts/roc-curves.html<BR>
+https://en.wikipedia.org/wiki/Receiver_operating_characteristic#Area_under_curve<BR>
+http://fastml.com/what-you-wanted-to-know-about-auc/<BR>
+http://www.joyofdata.de/blog/illustrated-guide-to-roc-and-auc/<BR>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # How To Estimate Model Accuracy in R Using The Caret Package
 http://machinelearningmastery.com/how-to-estimate-model-accuracy-in-r-using-the-caret-package/
 
